@@ -1,0 +1,26 @@
+body {
+    background-color: burlywood;
+}
+
+.todo {
+    font-size: 30px;
+    color: blue;
+}
+
+li:hover {
+    background-color: rgba(181, 15, 37, 0.2);
+    transition: all 200ms;
+}
+
+.completed {
+    color:gray;
+    text-decoration: line-through;
+}
+
+h1 {
+    text-align: center;
+    transition: all 1s;
+}
+/* button {
+    text-align: right;
+} */
